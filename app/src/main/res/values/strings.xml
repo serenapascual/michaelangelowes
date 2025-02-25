@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MichaelangeLowe\'s</string>
+    <string name="select_photo_instructions">
+        To begin, take a new photo or select an existing photo from your gallery.
+    </string>
+    <string name="camera_button_text">"New photo"</string>
+    <string name="camera_button_description">"Camera button"</string>
+    <string name="gallery_button_text">"Existing photo"</string>
+    <string name="gallery_button_description">"Gallery button"</string>
 </resources>
